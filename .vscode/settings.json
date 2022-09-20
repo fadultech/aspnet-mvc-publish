@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cb563778-bc40-4f15-8394-667d92b07542/AppServices/subscriptions/cb563778-bc40-4f15-8394-667d92b07542/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/fadulapp",
+    "appService.deploySubpath": "bin\\Publish"
+}

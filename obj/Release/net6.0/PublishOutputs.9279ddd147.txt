@@ -1,0 +1,7 @@
+D:\Courses\AspMvc\bin\Publish\AspMvc.exe
+D:\Courses\AspMvc\bin\Publish\appsettings.Development.json
+D:\Courses\AspMvc\bin\Publish\appsettings.json
+D:\Courses\AspMvc\bin\Publish\AspMvc.dll
+D:\Courses\AspMvc\bin\Publish\AspMvc.deps.json
+D:\Courses\AspMvc\bin\Publish\AspMvc.runtimeconfig.json
+D:\Courses\AspMvc\bin\Publish\AspMvc.pdb
